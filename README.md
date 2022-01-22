@@ -1,4 +1,4 @@
-# exampleProjects
+# Example Projects
 Here are just a few examples of personal projects I am currently working on.
 
 ## TableGoblin Virtual Tabletop
