@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/97644920/150622492-5375b332-5d84-4e2a-
 
 
 ## Squid Launcher Twitch Physics Overlay
-The Squid Launcher is an overlay I created for my friend, the Twitch streamer pipsqueak_squid: https://www.twitch.tv/pipsqueak_squid. Check out her streams! It allows the streamer to spawn squid characters that use matter.js physics to fly across the screen and collide with each other, the screen edge and streamer video window. Squids generate physics based splashes when the fall off screen. Squid spawning set to be triggered when a viewer follows the channel. Streamer can also trigger physics based fireworks.
+The Squid Launcher is an overlay I created for my friend, the Twitch streamer pipsqueak_squid: https://www.twitch.tv/pipsqueak_squid. Check out her streams! The overlay allows the streamer to spawn squid characters that use matter.js physics to fly across the screen and collide with each other, the screen edge and streamer video window. Squids generate physics based splashes when the fall off screen. Squid spawning set to be triggered when a viewer follows the channel. Streamer can also trigger physics based fireworks.
 built with React.js and utilizing matter.js to create physics simulation of squid characters, splashes and fireworks for use on a twitch stream channel.
 
 https://user-images.githubusercontent.com/97644920/150622475-11ad40c0-7480-4f49-a03c-a3d12f8bef1d.mp4
