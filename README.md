@@ -1,5 +1,5 @@
 # Example Projects
-Here are just a few examples of personal projects I am currently working on.
+Here are just a few examples of projects I am currently working on.
 
 ## TableGoblin Virtual Tabletop
 A multi-user simulated tabletop for tabletop role playing games. I was looking for something a bit simpler then most of the virtual tabletops out there that I could use to quickly throw together new battle maps on the fly for my games. It includes a 3d dice roller, initiative tracker and token creation system. It is still in development at this time but I look forward to sharing it with others once it is completed!
